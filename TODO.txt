@@ -1,0 +1,27 @@
+git utils:
+    commits from repo
+    files in commits
+    files to commit
+
+workspace utils:
+    [*] list all files
+    [*] upload files
+    [*] read file
+    [*] delete file
+
+pipeline creater:
+    [*] job create
+    [*] list clusters
+
+resource manager:
+    [*] start cluster
+    [*] stop cluster
+    [*] delete cluster
+    [] create cluster
+
+pipeline manager:
+    [*] get job metadata
+    [*] get job all runs
+    [*] job / task runs
+    [*] run job
+    [*] delete job
